@@ -1,5 +1,5 @@
 ---
-title: Risteilyinfo
+title: JR16 - Ohjelma
 draft: false
 layout: index.html
 links:
@@ -13,6 +13,6 @@ submenu:
 - Ohjeet
 - Matkaehdot
 ---
-## Risteilyinfo
+## Risteilyn ohjelma
 
-Infoa risteilijöille
+Seuraa tiedotusta, ohjelma löytyy sivulta kun saamme sen julkiseksi.

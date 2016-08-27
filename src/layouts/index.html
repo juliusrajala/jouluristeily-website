@@ -18,12 +18,12 @@
       {{#if submenu}}
         <ul class="sub-menu">
           {{#each submenu as |sublink|}}
-            <a href={{linkUrl sublink}} class="navigation__link"><li>{{sublink}}</li></a>
+            <a href={{linkUrl sublink}} id={{linkUrl sublink}} class="navigation__link"><li>{{sublink}}</li></a>
           {{/each}}
         </ul>
       {{/if}}
       <img class="watermark" src="assets/leima.png"/>
-      {{{contents}}}
+      <div class="content__bread">{{{contents}}}</div>
     </div>
     <div class="footer">Sponsorit</div>
   </div>
