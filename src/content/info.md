@@ -15,4 +15,4 @@ submenu:
 ---
 ## Risteilyinfo
 
-Infoa risteilijöille
+Näiltä sivuilta löydät tietoa risteilyyn liittyen. Lisätietoja matkasta, ohjeista ja ohjelmasta julkaisemme lähempänä tapahtumaa näillä sivuilla, sekä sosiaalisessa mediassa!

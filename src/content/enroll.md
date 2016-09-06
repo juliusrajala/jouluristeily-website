@@ -11,4 +11,4 @@ links:
 
 ## Ilmoittautuminen
 
-[Linkki ilmoittautumiseen](https://tamalinkkimeneeilmoon.com/ "Ilmoittaudu")
+## Coming soon...

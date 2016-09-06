@@ -32,6 +32,7 @@ p {
   text-align: justify;
 }
 
+
 body {
   width: 100%;
   height: 100%;
@@ -48,16 +49,27 @@ body {
 
 .footer {
   color: white;
-  background-color: $MAIN_BLACK;
-  height: 50px;
+  background-color: $CARD_GRAY;
+  height: 100px;
   max-width: $CONTENT_WIDTH;
   width: 80%;
   margin-right: auto; margin-left: auto;
   padding: $PADDING_DEFAULT;
-  border-radius-bottom-right: 2px;
-  border-radius-bottom-left: 2px;
+  border-bottom-right-radius: 2px;
+  border-bottom-left-radius: 2px;
   text-align: center;
   font-family: $FONT_DEFAULT;
+  z-index: 5;  
+  -webkit-box-shadow: 0px 9px 9px -1px rgba(0,0,0,0.38);
+  -moz-box-shadow: 0px 9px 9px -1px rgba(0,0,0,0.38);
+  box-shadow: 0px 9px 9px -1px rgba(0,0,0,0.38);
+
+
+  &__sponsor {
+    margin-left: $PADDING_DEFAULT * 2;
+    margin-right: $PADDING_DEFAULT * 2;
+    height: 100%;
+  }
 }
 
 .header {
@@ -67,12 +79,12 @@ body {
 .navigation {
   padding: $PADDING_DEFAULT;
   list-style: none;
-  font-family: $HEADER_FONT;
   text-transform: uppercase;
   font-size: 20px;
   vertical-align: middle;
 
   &__link {
+    font-family: $HEADER_FONT;
     display: inline-block;
     padding: $PADDING_DEFAULT*2;
     color: $CARD_GRAY;
@@ -108,13 +120,17 @@ body {
   background-color: rgba(#Efffff, 0.9);
   max-width: $CONTENT_WIDTH;
   width: 80%;
-  margin-right: auto; margin-left: auto;
-  -webkit-box-shadow: 0px 9px 9px -1px rgba(0,0,0,0.38);
-  -moz-box-shadow: 0px 9px 9px -1px rgba(0,0,0,0.38);
-  box-shadow: 0px 9px 9px -1px rgba(0,0,0,0.38);
-  position: relative;
+  margin-right: auto; margin-left: auto;  position: relative;
   text-align: center;
   overflow: hidden;
+
+  &__bread {
+    li {
+      font-family: $FONT_DEFAULT;
+    }    
+  }
+
+
 
   .watermark {
     height: 400px;
