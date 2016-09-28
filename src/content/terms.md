@@ -15,7 +15,7 @@ submenu:
 ---
 ## Matkustusohjeet
 ### Matkaehdot
-Luonnontieteiden jouluristeily 2015:n järjestäjänä toimii After lecture ry. Risteilyn aikana laivan normaalitoiminnoista vastaa Tallink Silja.
+Luonnontieteiden jouluristeily 2016:n järjestäjänä toimii After lecture ry. Risteilyn aikana laivan normaalitoiminnoista vastaa Tallink Silja.
 
 Laivalla noudatetaan viranomaismääräysten lisäksi Tallinks Siljan järjestyssääntöjä ja määräyksiä. 
 
@@ -41,10 +41,10 @@ Kaikki muutokset ja peruutukset tehdään sähköpostitse.
 
 Kokonaishinnan muuttuessa varaukseen tehtävien muutosten seurauksena tulee erotus yhteyshenkilölle joko maksettavaksi tai palautettavaksi. Palautettavasta summasta vähennetään kuitenkin 0…100 % riippuen muutoksen tai peruutuksen ajankohdasta (perusteet mainittu alla).
 
-Ennen 22.10.2015 tehdyt peruutukset ja muutokset ovat maksuttomia, maksetut maksut hyvitetään yhteyshenkilön ilmoittamalle tilille ilman vähennyksiä.
-23.10.-16.11.2015 välisenä aikana tehdyistä peruutuksista ja palautuksiin oikeuttavista muutoksista palautetaan 50 %.
+Ennen 23.10.2016 tehdyt peruutukset ja muutokset ovat maksuttomia, maksetut maksut hyvitetään yhteyshenkilön ilmoittamalle tilille ilman vähennyksiä.
+23.10.-16.11.2016 välisenä aikana tehdyistä peruutuksista ja palautuksiin oikeuttavista muutoksista palautetaan 50 %.
 
-16.11.2015 jälkeen tehdyistä peruutuksista ei myönnetä hyvityksiä.
+16.11.2016 jälkeen tehdyistä peruutuksista ei myönnetä hyvityksiä.
 Matkustajalla on oikeus peruuttaa matka ylivoimaisen esteen (esim. vakava sairastapaus) vuoksi. Tällaisissa tapauksissa noudatetaan yleisiä valmismatkaehtoja Tallink Siljan käytännön mukaan.
 
 Järjestäjä ei korvaa matka-, majoitus- tai muita vastaavia kuluja, jotka jotka aiheutuvat laivasta myöhästymisen, matkalipun hukkumisen, laivaan pääsyn eväämisen tai viranomaistoimien vuoksi.

@@ -14,7 +14,6 @@ submenu:
 - Matkaehdot
 ---
 ## Matkustusohjeet
-[Matka- ja peruutusehdot](http://Linkkiperuutusehtoihin.com)
 
 ### Ilmoittautuminen ja maksaminen
 Uusi ilmoittautumisjärjestelmä tuo mukanaan varaamiseen verkkomaksun, johon onkin hyvä varautua!

@@ -21,6 +21,10 @@ Hinnat sisältävät haalarimerkin ja ohjelman laivalla. Matkat myydään hyteit
 
 | Hyttiluokka   | Kuvaus        | Hinta |
 |:------------- |:--------------| -----:|
-| DeLuxe        | Lorem ipsum.  | $1600 |
-| A2            | Lorem ipsum.  |   $12 |
-| A4            | Lorem ipsum.  |    $1 |
+| DeLuxe | Kahden hengen tilavia 11–14 m2 hyttejä (osassa hyteistä nojatuoli tai pieni sohva). Hyteissä on kiinteä parivuode (vuoteita ei saa erilleen), wc, suihku, hiustenkuivaaja, LCD-TV, puhelin, jääkaappi ja virvokkeita. Hintaan sisältyy erikoisaamiainen ja baarikaappi sisältöineen. | 150€ |
+| A2 | Kahden hengen ikkunallisia 9 m2 hyttejä. Osassa hyteissä on kiinteä parivuode (vuoteita ei saa erilleen), wc, suihku ja LCD-TV. | 70€ |
+| A4 | Neljän hengen ikkunallisia 9-10 m2 hyttejä. Hyteissä on wc, suihku ja LCD-TV. | 120€ |
+| B2 |  Kahden hengen ikkunattomia 9 m2 sisähyttejä. Hyteissä on wc, suihku ja LCD-TV.  | 60€ | 
+| B4 |  Neljän hengen ikkunattomia 9 m2 sisähyttejä. Hyteissä on wc, suihku ja LCD-TV.  | 96€ | 
+| E2 |  Kahden hengen ikkunattomia hyttejä. Hyteissä on wc, suihku ja LCD-TV. Hytit sijaitsevat yökerhon yläpuolella, joten niihin saattaa kantautua melua.  | 40€ | 
+| E4 |  Neljän hengen ikkunattomia hyttejä. Hyteissä on wc, suihku ja LCD-TV. Hytit sijaitsevat yökerhon yläpuolella, joten niihin saattaa kantautua melua.  | 60€ | 
