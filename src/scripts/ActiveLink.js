@@ -5,5 +5,5 @@
 })();
 
 function changeLinkColor(el){
-  el.style.color = '#F7D00D';
+  el.style.color = '#E60501';
 };
