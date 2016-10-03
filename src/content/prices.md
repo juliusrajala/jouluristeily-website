@@ -28,3 +28,13 @@ Hinnat sisältävät haalarimerkin ja ohjelman laivalla. Matkat myydään hyteit
 | B4 |  Neljän hengen ikkunattomia 9 m2 sisähyttejä. Hyteissä on wc, suihku ja LCD-TV.  | 96€ | 
 | E2 |  Kahden hengen ikkunattomia hyttejä. Hyteissä on wc, suihku ja LCD-TV. Hytit sijaitsevat yökerhon yläpuolella, joten niihin saattaa kantautua melua.  | 40€ | 
 | E4 |  Neljän hengen ikkunattomia hyttejä. Hyteissä on wc, suihku ja LCD-TV. Hytit sijaitsevat yökerhon yläpuolella, joten niihin saattaa kantautua melua.  | 60€ | 
+
+## Ruokailujen hinnat
+
+Taulukossa etukäteen ostettavien ruokailujen hinnat. Ruokakupongit voi käyttää myös osamaksuna muissa laivan ruokaravintoloissa. Maksettaessa ruokaa, jonka arvo on ruokalipun arvoa pienempi, ei erotusta hyvitetä asiakkaalle eikä käyttämättömiä ruokaseteleitä lunasteta takaisin. Taulukossa on listattu kuponkien arvo laivalla.
+
+| Ruokailu | Hinta | Kupongin arvo laivalla |
+|:---------|------:|-------------:|
+|Meriaamiainen | 10,50€ | 11,50€ |
+|Buffet-illallinen | 35,00€ | 37,00€ |
+|Buffet-lounas | 31,00€ | 33,00€ |
