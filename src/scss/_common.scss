@@ -70,10 +70,11 @@ body {
   z-index: 5;
 
   &__sponsor {
+    vertical-align: middle;
     box-sizing: border-box;
     margin-left: $PADDING_DEFAULT * 2;
     margin-right: $PADDING_DEFAULT * 2;
-    height: 100%;
+    width: 20%;
 
     &--shadowed {
       @include material-shadow;

@@ -25,7 +25,7 @@ Pukukoodina Luonnontieteilijöiden Jouluristeilyllä on haalarit.
 Risteilylle on 18 vuoden ikäraja.
 
 ### Tax Free
-Tuotevalvontasäännösten vuoksi tax free -myymälä ei myy alkoholituotteita Turusta lähteneille risteilymatkustajille menomatkalla (26.11.). Paluumatkalla (27.11.) risteilymatkustajillamme on täydet tax free osto-oikeudet. Myymälä on avoinna torstaina klo 20.15-23.00 sekä perjantaina klo 06.30-07.00 ja 09.00-19.00
+Tuotevalvontasäännösten vuoksi tax free -myymälä ei myy alkoholituotteita Turusta lähteneille risteilymatkustajille menomatkalla (1.12.). Paluumatkalla (2.12.) risteilymatkustajillamme on täydet tax free osto-oikeudet. Myymälä on avoinna torstaina klo 20.15-23.00 sekä perjantaina klo 06.30-07.00 ja 09.00-19.00
 
 ### LAL:n ja YKL:n jäset
 LAL ja YKL jakavat jäsenilleen drinkkilipun risteilyn aikana. Oman juomalippunsa voi noutaa ammattiliittojen ständeiltä kannen 7. ravintolakäytävältä. Ständit ovat auki menoiltana 22.00-24.00 ja paluupäivänä 12.00-15.30.
