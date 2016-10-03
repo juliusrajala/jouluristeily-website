@@ -43,11 +43,18 @@ body {
   box-shadow: inset 1px 9px 140px 17px rgba(0,0,0,0.38);
 }
 
+@mixin material-shadow ($size: 1) {
+  -webkit-box-shadow: 0px $size*2px $size*2px 0px rgba(0,0,0,0.4);
+  -moz-box-shadow: 0px $size*2px $size*2px 0px rgba(0,0,0,0.4);
+  box-shadow: 0px $size*2px $size*2px 0px rgba(0,0,0,0.4);
+}
+
 .container {
   min-height: 100%;
 }
 
 .footer {
+  @include material-shadow;
   color: white;
   background-color: $HIGHLIGHT_RED;
   background-color: rgba($HIGHLIGHT_RED, .8);
@@ -60,11 +67,7 @@ body {
   border-bottom-left-radius: 2px;
   text-align: center;
   font-family: $FONT_DEFAULT;
-  z-index: 5;  
-  -webkit-box-shadow: 0px 9px 9px -1px rgba(0,0,0,0.38);
-  -moz-box-shadow: 0px 9px 9px -1px rgba(0,0,0,0.38);
-  box-shadow: 0px 9px 9px -1px rgba(0,0,0,0.38);
-
+  z-index: 5;
 
   &__sponsor {
     box-sizing: border-box;
@@ -73,10 +76,7 @@ body {
     height: 100%;
 
     &--shadowed {
-      border: 2px solid #2f2f2f;
-      -webkit-box-shadow: 0px 2px 2px -1px rgba(0,0,0,0.38);
-      -moz-box-shadow: 0px 2px 2px -1px rgba(0,0,0,0.38);
-      box-shadow: 0px 2px 2px -1px rgba(0,0,0,0.38);
+      @include material-shadow;
     }
   }
 }
@@ -86,14 +86,12 @@ body {
 }
 
 .navigation {
+  @include material-shadow;
   list-style: none;
   text-transform: uppercase;
   font-size: 20px;
   vertical-align: middle;
   background-color: $MAIN_BLACK;
-  -webkit-box-shadow: 0px 2px 2px -1px rgba(0,0,0,0.38);
-  -moz-box-shadow: 0px 2px 2px -1px rgba(0,0,0,0.38);
-  box-shadow: 0px 2px 2px -1px rgba(0,0,0,0.38);
 
   &__link {
     font-family: $HEADER_FONT;
@@ -112,6 +110,7 @@ body {
 }
 
 .sub-menu {
+  @include material-shadow;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   background-color: $MAIN_BLACK;
@@ -132,7 +131,7 @@ body {
   backface-visibility: hidden;
   line-height: 1.5;
   background-color: $CARD_GRAY;
-  background-color: rgba(#Efffff, 0.9);
+  // background-color: rgba(#Efffff, 0.9);
   max-width: $CONTENT_WIDTH;
   width: 80%;
   margin-right: auto; margin-left: auto;  position: relative;
