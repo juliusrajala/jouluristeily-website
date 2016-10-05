@@ -10,7 +10,7 @@
     "uglify": "uglifyjs --compress --mangle -- dist/bundle.js > dist/bundle.min.js && rm dist/bundle.js",
     "clean": "rm -rf dist",
     "copy:assets": "bash -c \"mkdir -p ./dist/ && cp -R ./src/assets ./dist/\"",
-    "server": "http-server dist",
+    "server": "http-server dist -p 80",
     "build:all": "npm run clean && (npm run build:metalsmith && npm run copy:assets &&  npm run build:css && npm run build:js)",
     "watch": "nodemon --ignore dist/ -e scss,html,md,js,jpg,png -x \"npm run build:all\"",
     "start": "bash -c \"(npm run server & npm run watch)\""
