@@ -18,3 +18,13 @@
     padding: $PADDING_DEFAULT;
   }
 }
+
+@media (max-device-width: 600px) {
+  .content__bread {
+    padding: 0;
+    
+    table {
+      width: 100%;
+    }
+  }
+}

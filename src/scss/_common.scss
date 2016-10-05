@@ -56,9 +56,6 @@ body {
 .footer {
   @include material-shadow;
   color: white;
-  background-color: $HIGHLIGHT_RED;
-  background-color: rgba($HIGHLIGHT_RED, .8);
-  height: 100px;
   max-width: $CONTENT_WIDTH;
   width: 80%;
   margin-right: auto; margin-left: auto;
@@ -68,17 +65,15 @@ body {
   text-align: center;
   font-family: $FONT_DEFAULT;
   z-index: 5;
+  background-color: white;
+  border-top: 2px solid $HIGHLIGHT_RED;
 
   &__sponsor {
     vertical-align: middle;
     box-sizing: border-box;
-    margin-left: $PADDING_DEFAULT * 2;
-    margin-right: $PADDING_DEFAULT * 2;
+    padding: $PADDING_DEFAULT;
     width: 20%;
-
-    &--shadowed {
-      @include material-shadow;
-    }
+    display: inline-block;
   }
 }
 
@@ -118,7 +113,6 @@ body {
   list-style: none;
   font-family: $HEADER_FONT;
   text-transform: uppercase;
-  font-size: 20px;
   vertical-align: middle;
 
   .navigation__link {
@@ -145,10 +139,46 @@ body {
     }    
   }
 
-
-
   .watermark {
     height: 400px;
     margin: $PADDING_DEFAULT;
+  }
+}
+
+@media (max-device-width: 600px){
+  .navigation__link {
+    padding: $PADDING_DEFAULT;
+    padding-left: $PADDING_DEFAULT / 2;
+    padding-right: $PADDING_DEFAULT / 2;
+    font-size: 14px;
+    max-width: 140px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .sub-menu {
+    .navigation__link {
+      font-size: 14px;
+    }
+  }
+  .content {
+    margin-top: 50px;
+  }
+  .content, .footer {
+    width: 95%;
+    .watermark {
+      height: 200px;
+    }
+
+    &__sponsor {
+      width: 60%;
+    }
+  }
+
+  table {
+    font-size: 12px;
+  }
+
+  p {
+    font-size: 12px;
   }
 }
