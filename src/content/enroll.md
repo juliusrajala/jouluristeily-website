@@ -11,4 +11,8 @@ links:
 
 ## Ilmoittautuminen
 
-## Linkki ilmottautumiseen tulee sivuille hieman ennen ilmoittautumisen aukeamista keskiyöllä 9.10.2016.
+<span class="enroll-link__container">
+<a class="enroll-link" href="https://www.lyyti.fi/reg/Luonnontieteilijoiden_Jouluristeily_2016_0347">
+Löydät ilmoittautumislomakkeen täältä
+</a>
+</span>
