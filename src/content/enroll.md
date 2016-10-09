@@ -11,4 +11,4 @@ links:
 
 ## Ilmoittautuminen
 
-## Coming soon...
+## Linkki ilmottautumiseen tulee sivuille hieman ennen ilmoittautumisen aukeamista keskiyöllä 9.10.2016.
