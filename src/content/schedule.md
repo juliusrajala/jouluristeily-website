@@ -1,5 +1,5 @@
 ---
-title: JR16 - Ohjelma
+title: Ohjelma
 draft: false
 layout: index.html
 links:

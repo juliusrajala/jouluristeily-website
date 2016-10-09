@@ -1,5 +1,5 @@
 ---
-title: JR16 - Hinnat
+title: Hinnat
 draft: false
 layout: index.html
 links:

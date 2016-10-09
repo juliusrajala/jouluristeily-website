@@ -1,5 +1,5 @@
 ---
-title: JR16 - Ilmoittautuminen
+title: Ilmoittautuminen
 draft: false
 layout: index.html
 links:
