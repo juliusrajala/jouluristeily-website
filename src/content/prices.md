@@ -23,7 +23,7 @@ Hinnat sisältävät haalarimerkin ja ohjelman laivalla. Matkat myydään hyteit
 |:------------- |:--------------| -----:|
 | DeLuxe | Kahden hengen tilavia 11–14 m2 hyttejä (osassa hyteistä nojatuoli tai pieni sohva). Hyteissä on kiinteä parivuode (vuoteita ei saa erilleen), wc, suihku, hiustenkuivaaja, LCD-TV, puhelin, jääkaappi ja virvokkeita. Hintaan sisältyy erikoisaamiainen ja baarikaappi sisältöineen. | 150€ |
 | A2 | Kahden hengen ikkunallisia 9 m2 hyttejä. Osassa hyteissä on kiinteä parivuode (vuoteita ei saa erilleen), wc, suihku ja LCD-TV. | 70€ |
-| A3 | Neljän hengen ikkunallisia 9-10 m2 hyttejä. Hyteissä on wc, suihku ja LCD-TV. | 96€ |
+| A3 | Kolmen hengen ikkunallisia 9-10 m2 hyttejä. Hyteissä on wc, suihku ja LCD-TV. | 96€ |
 | A4 | Neljän hengen ikkunallisia 9-10 m2 hyttejä. Hyteissä on wc, suihku ja LCD-TV. | 120€ |
 | B2 |  Kahden hengen ikkunattomia 9 m2 sisähyttejä. Hyteissä on wc, suihku ja LCD-TV.  | 60€ | 
 | B4 |  Neljän hengen ikkunattomia 9 m2 sisähyttejä. Hyteissä on wc, suihku ja LCD-TV.  | 96€ | 
