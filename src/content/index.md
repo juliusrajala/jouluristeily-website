@@ -8,7 +8,7 @@ links:
 - Ilmoittautuminen
 - Yhdistys
 ---
-## Kiitos osallistujille ja yhteistyötahoille vuoden 2015 risteilystä!
+## Tänä vuonna jouluristeily seilataan 1. - 2.12.2016!
 
 Luonnontieteilijöiden Jouluristeilyn juuret ulottuvat vuoteen 2003, jolloin vuosittainen risteilyperinne alkoi. Vuonna 2005 jouluristeilystä tehtiin valtakunnallinen tapahtuma ja mukaan kutsuttiin opiskelijoita ympäri Suomen. Vuonna 2006 perustettiin After lecture ry, joka otti vastuulleen luonnontieteilijöiden jouluristeilyn järjestämisen ja sen kehittämisen.
  
