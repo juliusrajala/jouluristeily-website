@@ -12,7 +12,7 @@ links:
 ## Ilmoittautuminen
 
 <span class="enroll-link__container">
-<a class="enroll-link" href="https://www.lyyti.fi/reg/Luonnontieteilijoiden_Jouluristeily_2016_0347">
-Löydät ilmoittautumislomakkeen täältä
-</a>
+<h2 class="enroll-link">
+Peruutusliput tulevat myyntiin 18.10.
+</h2>
 </span>
