@@ -16,5 +16,5 @@ metalsmith(__dirname)
   .use(handlebarsHelpers())
   .build(function(err){
     if(err) { throw err; }
-    else console.log('Metalsmith build successfull!');
+    else console.log('Metalsmith build successful!');
   });
