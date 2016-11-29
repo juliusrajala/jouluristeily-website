@@ -2,6 +2,7 @@
 title: Ohjelma
 draft: false
 layout: index.html
+schedule: true
 links:
 - Etusivu
 - Info

@@ -24,7 +24,7 @@
         </ul>
       {{/if}}
       <img class="watermark" src="assets/leima.png"/>
-      <div class="content__bread">{{{contents}}}</div>
+      <div class="content__bread  {{#if schedule}} content__bread--schedule{{/if}}">{{{contents}}}</div>
     </div>
     <div class="footer">
     <img class="footer__sponsor" src="assets/lal.png">
