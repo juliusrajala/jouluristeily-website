@@ -18,6 +18,9 @@
     table {
       margin-top: 50px;
     }
+    td {
+      border-bottom: 1px solid lightgray;    
+    }
     td:first-child {
       min-width: 200px;
       font-weight: 900;
@@ -44,7 +47,6 @@
   }
   td {
     padding: $PADDING_DEFAULT;
-    border-bottom: 1px solid lightgray;
   }
 }
 
