@@ -2,6 +2,7 @@
 title: Risteilyinfo
 draft: false
 layout: index.html
+applications: true
 links:
 - Etusivu
 - Info

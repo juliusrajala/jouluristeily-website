@@ -16,7 +16,7 @@
 
   &--schedule {
     table {
-      margin-top: 50px;
+      margin-bottom: 50px;
     }
     td {
       border-bottom: 1px solid lightgray;    
@@ -68,6 +68,22 @@
     
     table {
       width: 100%;
+    }
+  }
+}
+
+.content__store {
+  width: 100%;
+  text-align: center;
+
+  &__link {
+    display: inline-block;
+    vertical-align: middle;
+    padding: 30px;
+
+    &__image {
+      height: 100px;
+      width: 100px;
     }
   }
 }

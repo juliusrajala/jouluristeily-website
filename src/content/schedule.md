@@ -3,6 +3,7 @@ title: Ohjelma
 draft: false
 layout: index.html
 schedule: true
+applications: true
 links:
 - Etusivu
 - Info
@@ -16,12 +17,6 @@ submenu:
 ---
 ## Risteilyn ohjelma
 
-Baltic Princessillä Itämerelle ja samalla Sierralla Nevadaan! Kyllä vain, nyt on vuoro ensimmäisen ohjelmajulkistuksen! Laivaan on lastattu äärettömän huikea bilebändi Portion Boys! Pokemoneja, Lännen nopein mies, Pumppaa ja muut tykkibiisit vauhdittavat risteilytunnelmaa!
-
-- [Virittäydy tunnelmaan uusimmalla Pokemoneja-biisillä](https://open.spotify.com/album/5n9woAe2wvuNNtTEoI6SVj)
-- [Portion Boys, Spotify](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv)
-- [Portion Boys, Youtube](https://www.youtube.com/channel/UC_XFRH7Der1T_vwpEk-wy5w)
-
 | AIKA          | OHJELMA            | KANSI   |
 |:------------- |:-------------------|:--------|
 | 20.15 | Baltic Princess lähtee Turusta ja ravintolat aukeavat | |
@@ -34,7 +29,7 @@ Baltic Princessillä Itämerelle ja samalla Sierralla Nevadaan! Kyllä vain, nyt
 | 23.15 - 01.15 | Joku Paikallinen Bändi buustaa fiilistä Starlight Palacessa | Kansi 6 ja 7 |
 | 23.15 - 04.30 | DJ Eki starttaa bileet Klubilla | Kansi 10 |
 | 00.00 - 01.00 | Pomppupalloturnajaiset keula-aulassa | Kansi 5 |
-| 00.30 - 01.30 | Ultimaattinen meno räjähtää Starlightissa: Portion Boys nousee lavalle! | Kansi 6 ja 7 |
+| 00.30 - 01.30 | Ultimaattinen meno räjähtää Starlightissa: Portion Boys nousee lavalle! [Portion Boys, Spotify](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv) [Portion Boys, Youtube](https://www.youtube.com/channel/UC_XFRH7Der1T_vwpEk-wy5w) | Kansi 6 ja 7 |
 | 01.30 - 04.30 | DJ-koalitio Boatsinkers vetää bileet äärimmilleen ja nupit kaakkoon Starlight Palacessa | Kansi 6 ja 7 |
 | Toinen päivä | | |
 | 11.00 - 12.00 | Paluupäivän aloittaa Pianobaarissa uutuusohjelma: Youtube-korneri | Kansi 7 |
