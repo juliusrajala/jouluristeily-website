@@ -13,6 +13,6 @@ links:
 
 <span class="enroll-link__container">
 <h2 class="enroll-link">
-<a href="https://www.lyyti.in/Luonnontieteilijoiden_Jouluristeily_2016_0347">Tästä linkistä pääsee Ilmoittautumaan.</a>
+  Tulossa myöhemmin.
 </h2>
 </span>
