@@ -30,7 +30,7 @@ Hinnat sisältävät haalarimerkin ja ohjelman laivalla. Matkat myydään hyteit
 | B4 |  Neljän hengen ikkunattomia 9 m2 sisähyttejä. Hyteissä on wc, suihku ja LCD-TV.  | 100€ | 
 | E2 |  Kahden hengen ikkunattomia hyttejä. Hyteissä on wc, suihku ja LCD-TV. Hytit sijaitsevat yökerhon yläpuolella, joten niihin saattaa kantautua melua.  | 50€ |
 | E3 |  Kolmen hengen ikkunattomia hyttejä. Hyteissä on wc, suihku ja LCD-TV. Hytit sijaitsevat yökerhon yläpuolella, joten niihin saattaa kantautua melua.  | 60€ |
-| E4 |  Neljän hengen ikkunattomia hyttejä. Hyteissä on wc, suihku ja LCD-TV. Hytit sijaitsevat yökerhon yläpuolella, joten niihin saattaa kantautua melua.  | 780€ | 
+| E4 |  Neljän hengen ikkunattomia hyttejä. Hyteissä on wc, suihku ja LCD-TV. Hytit sijaitsevat yökerhon yläpuolella, joten niihin saattaa kantautua melua.  | 78€ | 
 
 ## Ruokailujen hinnat
 
