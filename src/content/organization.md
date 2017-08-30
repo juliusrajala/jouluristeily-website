@@ -12,8 +12,8 @@ links:
 ## After lecture ry
 
 - After lecture ry
-- Savikatu 3 A 1 
-- 20540 Turku 
+- Yliopistonkatu 8 E 98
+- 20100 Turku 
 - afterlecture (ät) utu.fi
 
-After lecture ry perustettiin vuoden 2006 syksyllä järjestämään Luonnontieteilijöiden Jouluristeilyä. Yhdistys on voittoa tavoittelematon. Yhdistyksen toiminnasta vastaa kuusi hallituksen jäsentä
+After lecture ry perustettiin vuoden 2006 syksyllä järjestämään Luonnontieteilijöiden Jouluristeilyä. Yhdistys on voittoa tavoittelematon. Yhdistyksen toiminnasta vastaa seitsemän hallituksen jäsentä.
