@@ -13,6 +13,7 @@ submenu:
 - Ohjelma
 - Ohjeet
 - Matkaehdot
+- Tuplis
 ---
 ## Risteilyinfo
 

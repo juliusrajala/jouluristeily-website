@@ -2,7 +2,7 @@
   "name": "static-site-template",
   "version": "1.0.0",
   "description": "A static site template using metalsmith.",
-  "main": "index.js",
+  "main": "build.js",
   "scripts": {
     "build:css": "node-sass --include-path scss src/main.scss dist/css/styles.css",
     "build:metalsmith": "bash -c \"node build.js\"",
@@ -12,8 +12,8 @@
     "copy:assets": "bash -c \"mkdir -p ./dist/ && cp -R ./src/assets ./dist/\"",
     "server": "http-server dist",
     "build:all": "npm run clean && (npm run build:metalsmith && npm run copy:assets &&  npm run build:css && npm run build:js)",
-    "watch": "nodemon --ignore dist/ -e scss,html,md,js,jpg,png -x \"npm run build:all\"",
-    "start": "bash -c \"(npm run server & npm run watch)\""
+    "watch": "npm run build:all && nodemon --ignore dist/ -e scss,html,md,js,jpg,png -x",
+    "start": "bash -c \"(npm run build:all && npm run server)\""
   },
   "author": "Julius Rajala",
   "license": "MIT",
@@ -29,7 +29,6 @@
     "metalsmith-markdown": "^0.2.1",
     "node-sass": "^3.8.0",
     "nodemon": "^1.10.0",
-    "uglify-js": "^2.7.3",
-    "metalsmith": "^2.1.0"
+    "uglify-js": "^2.7.3"
   }
 }

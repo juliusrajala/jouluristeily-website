@@ -12,6 +12,7 @@ submenu:
 - Ohjelma
 - Ohjeet
 - Matkaehdot
+- Tuplis
 ---
 ## Matkustusohjeet
 ### Matkaehdot

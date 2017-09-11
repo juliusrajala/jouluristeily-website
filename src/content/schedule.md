@@ -14,6 +14,7 @@ submenu:
 - Ohjelma
 - Ohjeet
 - Matkaehdot
+- Tuplis
 ---
 ## Risteilyn ohjelma
 

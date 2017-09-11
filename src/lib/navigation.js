@@ -6,5 +6,6 @@ module.exports = {
   "Ohjelma": "/schedule.html",
   "Ohjeet": "/guidelines.html",
   "Yhdistys": "/organization.html",
-  "Matkaehdot": "/terms.html"
+  "Matkaehdot": "/terms.html",
+  "Tuplis": "/tuplis.html"
 }
