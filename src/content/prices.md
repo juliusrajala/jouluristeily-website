@@ -21,7 +21,7 @@ Risteilyn hinta muodostuu valitusta hyttiluokasta ja siihen valittavista ruokail
 Hinnat sisältävät haalarimerkin ja ohjelman laivalla. Matkat myydään hyteittäin, eli emme myy yksittäisiä lippuja matkustajille.
 
 | Hyttiluokka   | Kuvaus        | Hinta |
-|:------------- |:--------------| -----:|
+|---------------|:--------------| -----:|
 | DeLuxe | Kahden hengen tilavia 11–14 m2 hyttejä (osassa hyteistä nojatuoli tai pieni sohva). Hyteissä on kiinteä parivuode (vuoteita ei saa erilleen), wc, suihku, hiustenkuivaaja, LCD-TV, puhelin, jääkaappi ja virvokkeita. Hintaan sisältyy erikoisaamiainen ja baarikaappi sisältöineen. | 150€ |
 | A2 | Kahden hengen ikkunallisia 9 m2 hyttejä. Osassa hyteissä on kiinteä parivuode (vuoteita ei saa erilleen), wc, suihku ja LCD-TV. | 70€ |
 | A3 | Kolmen hengen ikkunallisia 9-10 m2 hyttejä. Hyteissä on wc, suihku ja LCD-TV. | 96€ |

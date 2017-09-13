@@ -1,3 +1,144 @@
+.container {
+  min-height: 100vh;
+}
+
+
+.content {
+  margin-top: 100px;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  line-height: 1.5;
+  background-color: #fff;
+  max-width: $CONTENT_WIDTH;
+  width: 80%;
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+  margin-right: auto; margin-left: auto; position: relative;
+  text-align: center;
+  overflow: hidden;
+
+  &__bread {
+    li {
+      font-family: $FONT_DEFAULT;
+    }    
+  }
+
+  .watermark {
+    height: 400px;
+    margin: $PADDING_DEFAULT;
+  }
+}
+
+.footer {
+  @include material-shadow;
+  color: white;
+  max-width: $CONTENT_WIDTH;
+  width: 80%;
+  margin-right: auto; margin-left: auto;
+  padding: $PADDING_DEFAULT;
+  border-bottom-right-radius: 2px;
+  border-bottom-left-radius: 2px;
+  text-align: center;
+  font-family: $FONT_DEFAULT;
+  z-index: 5;
+  background-color: white;
+  border-top: 2px solid $HIGHLIGHT_RED;
+
+  &__sponsor {
+    vertical-align: middle;
+    box-sizing: border-box;
+    padding: $PADDING_DEFAULT;
+    width: 20%;
+    display: inline-block;
+  }
+}
+
+.header {
+  text-align: center;
+}
+
+.navigation {
+  @include material-shadow;
+  list-style: none;
+  text-transform: uppercase;
+  font-size: 20px;
+  vertical-align: middle;
+  background-color: $MAIN_BLACK;
+
+  &__link {
+    font-family: $HEADER_FONT;
+    display: inline-block;
+    padding: $PADDING_DEFAULT*2;
+    padding-top: $PADDING_DEFAULT;
+    padding-bottom: $PADDING_DEFAULT;
+    color: $CARD_GRAY;
+    text-decoration: none;
+    text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.5);
+
+    &:hover {
+      color: $HIGHLIGHT_RED;
+      text-decoration: underline;
+    }
+  }
+}
+
+.sub-menu {
+  // @include material-shadow;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  background-color: $MAIN_BLACK;
+  list-style: none;
+  font-family: $HEADER_FONT;
+  text-transform: uppercase;
+  vertical-align: middle;
+
+  .navigation__link {
+    font-size: 16px;
+  }
+}
+
+
+@media (max-device-width: 600px), (max-width: 600px){
+  .navigation__link {
+    padding: $PADDING_DEFAULT;
+    padding-left: $PADDING_DEFAULT / 2;
+    padding-right: $PADDING_DEFAULT / 2;
+    font-size: 10px;
+    max-width: 140px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .sub-menu {
+    > .navigation__link {
+      font-size: 10px;
+    }
+  }
+
+  .content {
+    margin-top: 50px;
+  }
+
+  .content, .footer {
+    width: 95%;
+    .watermark {
+      height: 200px;
+    }
+
+    &__sponsor {
+      width: 60%;
+    }
+  }
+
+  table {
+    font-size: 12px;
+  }
+
+  p {
+    font-size: 12px;
+  }
+}
+
 .enroll-link {
   font-family: $HEADER_FONT;
   margin-left: auto;
@@ -14,12 +155,49 @@
 .content__bread {
   padding: $PADDING_DEFAULT;
 
+  > table {
+    border: 4px solid $DARK_GRAY;
+    font-family: $FONT_DEFAULT;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    max-width: 900px;
+  }
+
+  th {
+    font-family: $HEADER_FONT;
+    padding: $PADDING_DEFAULT;
+    background-color: $HIGHLIGHT_YELLOW;
+  }
+
+  tr {
+    border-top: 2px dashed #EEE;
+
+    &:first-child {
+      border-top: none;
+    }
+  }
+
+  td {
+    padding: $PADDING_DEFAULT;
+    vertical-align: middle;
+
+    &:first-child {
+      font-weight: 900;
+      text-align: center;
+    }
+
+    &:last-child {
+      font-weight: 900;
+    }
+  }
+
   &--schedule {
     table {
       margin-bottom: 50px;
     }
     td {
-      border-bottom: 1px solid lightgray;    
+      border-bottom: 1px solid lightgray;
     }
     td:first-child {
       min-width: 200px;
@@ -31,26 +209,9 @@
       font-weight: 900;      
     }
   }
-
-  table {
-    @include material-shadow;
-    background-color: $CARD_GRAY;
-    font-family: $FONT_DEFAULT;
-    margin-left: auto;
-    margin-right: auto;
-    width: 80%;
-  }
-  th {
-    font-family: $HEADER_FONT;
-    padding: $PADDING_DEFAULT;
-    background-color: $HIGHLIGHT_RED;
-  }
-  td {
-    padding: $PADDING_DEFAULT;
-  }
 }
 
-@media (max-device-width: 600px) {
+@media (max-device-width: 600px), (max-width: 600px) {
   .content__bread {
     padding: 0;
 
@@ -62,7 +223,7 @@
 
       td:last-child {
         min-width: initial;
-        font-weight: 900;      
+        font-weight: 900;
       }
     }
     

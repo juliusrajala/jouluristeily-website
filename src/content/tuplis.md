@@ -26,7 +26,7 @@ Kaikki Tupliksen hytit ovat neljän hengen hyttejä! Tupliksella on myös täysi
 Tupliksesta julkaisemme lisätietoja 18.9. alkavalla viikolla. Seuraa siis tiedotustamme silmä tarkkana!
 
 | Hyttiluokka   | Kuvaus        | Hinta |
-|:------------- |:--------------| -----:|
+|---------------|:--------------| -----:|
 | A4 | Neljän hengen ikkunallisia 9-10 m2 hyttejä. Hyteissä on wc, suihku ja LCD-TV. | 190€ |
 | B4 |  Neljän hengen ikkunattomia 9 m2 sisähyttejä. Hyteissä on wc, suihku ja LCD-TV.  | 170€ | 
 | E4 |  Neljän hengen ikkunattomia hyttejä. Hyteissä on wc, suihku ja LCD-TV. Hytit sijaitsevat yökerhon yläpuolella, joten niihin saattaa kantautua melua.  | 150€ | 
