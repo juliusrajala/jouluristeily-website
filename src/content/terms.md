@@ -18,11 +18,11 @@ submenu:
 
 ### Tuplis
 
-Tupliksen osallistujien täytyy valita molemmille kierroksille ruokailut.
+Tupliksen osallistujien täytyy valita molemmille risteilyille ruokailut.
 
 Jotta järjestelyt sujuisivat mahdollisimman sujuvasti, laivalta täytyy poistua risteilyjen välillä. Tähän kuitenkin ohjastamme myöhemmin järjestäjäpuolelta.
 
-Tupliksen ohjelman osallistumiseen vaaditaan After Lecturen kautta hankitut liput.
+Tupliksen ohjelmaan osallistumiseen vaaditaan After Lecturen kautta hankitut liput.
 
 ### Matkaehdot
 
