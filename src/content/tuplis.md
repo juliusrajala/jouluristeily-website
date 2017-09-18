@@ -16,13 +16,15 @@ submenu:
 ---
 ## Tuplis
 
-Mitäs, mitäs, mitäs nyt taas? Saamme vuosittain palautetta ja kummasteluja siitä, että miksei Jouluristeily ole kaksipäiväinen. Tänä vuonna tähän palautteeseen reagoidaan ja kannattaakin risteilyä edeltävä keskiviikko-torstai (29.-30.11.) raivata kalenterista tyhjäksi.
-
 Nyt on mahdollista lähteä Tuplajouluristeilylle, eli Tuplikselle!
 
-Matkaan pääsee nyt ensimmäistä kertaa järjestettäessä vain rajalliset n. 200 henkilöä. Huomionarvoista on myös se, ettei pelkälle ekalle lähdölle ole mahdollista varata hyttiä kauttamme. Tämä tarkoittaa sitä, että Tupliksen varatessaan saa hytin varattua myös varsinaiselle Jouluristeilylle!
+Tänä vuonna Jouluristeilyllä voi viettää tuplasti kivaa ja kannattaakin risteilyä edeltävä keskiviikko-torstai (29.-30.11.) raivata kalenterista tyhjäksi.
 
-Kaikki Tupliksen hytit ovat neljän hengen hyttejä! Tupliksella on myös täysin omanlainen ohjelmakattaus suunniteltuna, joten tylsää ei pääse tulemaan!
+Tupliksella on myös täysin omanlainen ohjelmakattaus suunniteltuna, joten tylsää ei pääse tulemaan! Tupliksen ohjelmasta löytyy niin kilpailuja, beer pongia kuin omaa artistiakin. Ensimmäisen risteilyn ohjelmaan pääset osallistumaan vain Tuplis-lipuilla.
+
+Matkaan pääsee nyt ensimmäistä kertaa järjestettäessä vain rajalliset n. 200 henkilöä. Huomionarvoista on myös se, ettei pelkälle ekalle lähdölle ole mahdollista varata hyttiä kauttamme. Tämä tarkoittaa sitä, että Tupliksen varatessaan saa hytin varattua myös varsinaiselle Jouluristeilylle! Kaikki tupliksen hytit ovat neljälle hengelle.
+
+Huomaathan että tupla-risteilyjen välillä osallistujien on poistuttava laivasta järjestelyjen sujuvoittamiseksi.
 
 ### Lipunmyynti alkaa 20.9. klo 22:00!
 
