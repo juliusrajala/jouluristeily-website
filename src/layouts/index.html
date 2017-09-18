@@ -11,13 +11,13 @@
 </head>
 <body style="background-image: url(assets/background.jpg)">
   <div class="container">
-    <div class="header">
+    <header class="header">
       <ul class="navigation">
       {{#each links as |link|}}
         <a href={{linkUrl link}} id={{linkUrl link}} class="navigation__link"><li>{{link}}</li></a>
       {{/each}}
       </ul>
-    </div>
+    </header>
     <div class="content">
       {{#if submenu}}
         <ul class="sub-menu">
@@ -44,9 +44,13 @@
         </div>
       {{/if}}
     </div>
-    <div class="footer">
-    <a href="http://www.loimu.fi"><img class="footer__sponsor footer__sponsor--shadowed" src="assets/loimu.png"></a>
+    <div class="sponsors">
+      <h2>Jouluristeilyllä mukana:</h2>
+      <a href="http://www.loimu.fi"><img class="sponsors__sponsor sponsors__sponsor--shadowed" src="assets/loimu.png"></a>
     </div>
+    <footer class="footer">
+      Copyright 2017, After Lectury ry
+    </footer>
   </div>
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

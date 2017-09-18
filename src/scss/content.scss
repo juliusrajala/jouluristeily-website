@@ -1,5 +1,6 @@
 .container {
   min-height: 100vh;
+  height: 100%;
 }
 
 
@@ -29,9 +30,8 @@
   }
 }
 
-.footer {
+.sponsors {
   @include material-shadow;
-  color: white;
   max-width: $CONTENT_WIDTH;
   width: 80%;
   margin-right: auto; margin-left: auto;
@@ -55,6 +55,15 @@
 
 .header {
   text-align: center;
+}
+
+.footer {
+  text-align: center;
+  font-family: $FONT_DEFAULT;
+  font-weight: 900;
+  color: white;
+  padding: 10px;
+  margin-top: 50px;
 }
 
 .navigation {
@@ -119,7 +128,7 @@
     margin-top: 50px;
   }
 
-  .content, .footer {
+  .content, .sponsors {
     width: 95%;
     .watermark {
       height: 200px;
@@ -136,6 +145,10 @@
 
   p {
     font-size: 12px;
+  }
+
+  .sponsors {
+    margin-bottom: 50px;
   }
 }
 
@@ -194,6 +207,7 @@
 
   &--schedule {
     table {
+      margin-top: 10px;
       margin-bottom: 50px;
     }
     td {
@@ -214,6 +228,7 @@
 @media (max-device-width: 600px), (max-width: 600px) {
   .content__bread {
     padding: 0;
+    padding-bottom: 20px;
 
     &--schedule {
       td:first-child {
@@ -229,6 +244,8 @@
     
     table {
       width: 100%;
+      border: none;
+      border-bottom: 2px dashed #EEE;
     }
   }
 }
