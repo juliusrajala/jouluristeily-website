@@ -15,7 +15,17 @@ submenu:
 - Tuplis
 ---
 ## Matkustusohjeet
+
+### Tuplis
+
+Tupliksen osallistujien täytyy valita molemmille kierroksille ruokailut.
+
+Jotta järjestelyt sujuisivat mahdollisimman sujuvasti, laivalta täytyy poistua risteilyjen välillä. Tähän kuitenkin ohjastamme myöhemmin järjestäjäpuolelta.
+
+Tupliksen ohjelman osallistumiseen vaaditaan After Lecturen kautta hankitut liput.
+
 ### Matkaehdot
+
 Luonnontieteiden jouluristeily 2017:n järjestäjänä toimii After lecture ry. Risteilyn aikana laivan normaalitoiminnoista vastaa Tallink Silja.
 
 Laivalla noudatetaan viranomaismääräysten lisäksi Tallinks Siljan järjestyssääntöjä ja määräyksiä.
