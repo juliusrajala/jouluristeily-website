@@ -28,6 +28,8 @@ h3 {
 
 p {
   padding: $PADDING_DEFAULT;
+  padding-top: $PADDING_DEFAULT / 2;
+  padding-bottom: $PADDING_DEFAULT / 2;
   font-family: $FONT_DEFAULT;
   text-align: justify;
 }

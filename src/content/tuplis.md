@@ -18,6 +18,8 @@ submenu:
 
 Nyt on mahdollista lähteä Tuplajouluristeilylle, eli Tuplikselle!
 
+[Tupliksen ilmoittautuminen löytyy täältä!](/enroll.html)
+
 Tänä vuonna Jouluristeilyllä voi viettää tuplasti kivaa ja kannattaakin risteilyä edeltävä keskiviikko-torstai (29.-30.11.) raivata kalenterista tyhjäksi.
 
 Tupliksella on myös täysin omanlainen ohjelmakattaus suunniteltuna, joten tylsää ei pääse tulemaan! Tupliksen ohjelmasta löytyy niin kilpailuja, beer pongia kuin omaa artistiakin. Ensimmäisen risteilyn ohjelmaan pääset osallistumaan vain Tuplis-lipuilla.

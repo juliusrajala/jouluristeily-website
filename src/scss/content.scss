@@ -152,16 +152,22 @@
   }
 }
 
-.enroll-link {
+.enroll-link__container {
   font-family: $HEADER_FONT;
-  margin-left: auto;
-  margin-right: auto;
-  color: $HIGHLIGHT_RED;
+  display: block;
+  width: 100%;
+  text-align: center;
+  font-size: 15px;
 
-  &__container {
+  > a {
+    color: $HIGHLIGHT_YELLOW;
+    text-decoration: none;
     display: block;
-    width: 100%;
-    text-align: center;
+    padding-bottom: 20px;
+
+    &:hover {
+      text-decoration: underline;
+    }
   }
 }
 

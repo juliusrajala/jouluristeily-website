@@ -12,10 +12,8 @@ links:
 ## Ilmoittautuminen
 
 <span class="enroll-link__container">
-<h2 class="enroll-link">
-  Ilmoittautuminen tuplikselle alkaa 20.9. klo 22:00
-</h2>
-<h2 class="enroll-link">
-  Normaalin risteilyn ilmoittautuminen tulossa myöhemmin!
-</h2>
+<a target="_blank" href="https://www.lyyti.in/Luonnontieteilijoiden_Jouluristeily_2017_9991">
+  Siirry tästä Tupliksen ilmoittautumiseen!
+</a>
+<span>Normaalin risteilyn ilmoittautuminen tulossa myöhemmin!</span>
 </span>
