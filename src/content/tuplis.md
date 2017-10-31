@@ -18,8 +18,6 @@ submenu:
 
 Nyt on mahdollista lähteä Tuplajouluristeilylle, eli Tuplikselle!
 
-[Tupliksen ilmoittautuminen löytyy täältä!](/enroll.html)
-
 Tänä vuonna Jouluristeilyllä voi viettää tuplasti kivaa ja kannattaakin risteilyä edeltävä keskiviikko-torstai (29.-30.11.) raivata kalenterista tyhjäksi.
 
 Tupliksella on myös täysin omanlainen ohjelmakattaus suunniteltuna, joten tylsää ei pääse tulemaan! Tupliksen ohjelmasta löytyy niin kilpailuja, beer pongia kuin omaa artistiakin. Ensimmäisen risteilyn ohjelmaan pääset osallistumaan vain Tuplis-lipuilla.
@@ -27,6 +25,8 @@ Tupliksella on myös täysin omanlainen ohjelmakattaus suunniteltuna, joten tyls
 Matkaan pääsee nyt ensimmäistä kertaa järjestettäessä vain rajalliset n. 200 henkilöä. Huomionarvoista on myös se, ettei pelkälle ekalle lähdölle ole mahdollista varata hyttiä kauttamme. Tämä tarkoittaa sitä, että Tupliksen varatessaan saa hytin varattua myös varsinaiselle Jouluristeilylle! Kaikki tupliksen hytit ovat neljälle hengelle.
 
 Huomaathan että tupla-risteilyjen välillä osallistujien on poistuttava laivasta järjestelyjen sujuvoittamiseksi.
+
+Tuplis lähtee keskiviikkona 29.11. klo 20.15. Matkustajia pyydetään saapumaan viimeistään klo 19.30 terminaaliin noutamaan laivaannousukortteja ja muuta risteilyrekvisiittaa. Siljan terminaalin ala-aulassa tavaroita luovutetaan jo klo 18.30 alkaen!
 
 ### Lipunmyynti alkaa 20.9. klo 22:00!
 
