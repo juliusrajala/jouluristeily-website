@@ -14,6 +14,6 @@ links:
 - After lecture ry
 - Yliopistonkatu 8 E 98
 - 20100 Turku 
-- afterlecture (ät) utu.fi
+- board@jouluristeily.net
 
 After lecture ry perustettiin vuoden 2006 syksyllä järjestämään Luonnontieteilijöiden Jouluristeilyä. Yhdistys on voittoa tavoittelematon. Yhdistyksen toiminnasta vastaa seitsemän hallituksen jäsentä.
