@@ -8,6 +8,7 @@ links:
 - Info
 - Ilmoittautuminen
 - Yhdistys
+- Sovellukset
 submenu:
 - Hinnat
 - Ohjelma

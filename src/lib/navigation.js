@@ -7,5 +7,6 @@ module.exports = {
   "Ohjeet": "/guidelines.html",
   "Yhdistys": "/organization.html",
   "Matkaehdot": "/terms.html",
-  "Tuplis": "/tuplis.html"
+  "Tuplis": "/tuplis.html",
+  "Sovellukset": "/apps.html"
 }

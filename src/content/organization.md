@@ -7,6 +7,7 @@ links:
 - Info
 - Ilmoittautuminen
 - Yhdistys
+- Sovellukset
 ---
 
 ## After lecture ry

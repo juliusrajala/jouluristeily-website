@@ -7,6 +7,7 @@ links:
 - Info
 - Ilmoittautuminen
 - Yhdistys
+- Sovellukset
 ---
 ## Tänä vuonna jouluristeily seilataan 30.11. - 1.12.2017!
 
