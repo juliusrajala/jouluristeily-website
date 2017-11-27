@@ -17,6 +17,6 @@ submenu:
 - Matkaehdot
 - Tuplis
 ---
-## Risteilyn ohjelma
 
-Julkaistaan myöhemmin.
+<iframe class="EmbedApp" src="https://risteilyappi.herokuapp.com/schedule-embed"></iframe>
+
