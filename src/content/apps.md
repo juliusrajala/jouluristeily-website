@@ -10,11 +10,34 @@ links:
 - Sovellukset
 ---
 
-## Risteilyohjus -sovellukset
+## Jouluristeily -sovellus
 
-Jouluristeilyn uusittu sovellus risteilyohjus osallistujien ladattavaksi risteilyä edeltävällä viikolla.
+TL;DR: [Siirry sovellukseen](https://risteilyappi.herokuapp.com)
 
-Aikaisempina vuosina risteilijät ovat joutuneet vuosittain lataamaan uuden version sovelluksesta. Tästä perinteestä luovutaan,
-ja samaa sovellusta pystyy käyttämään tulevina vuosina automaattisesti päivitetyin tiedoin.
+Jouluristeilyn uusittu sovellus on nyt risteilykansan käytettävissä.
 
-Sovellus on saatavilla sekä Androidille, että Applen laitteille. Aikaisemmista vuosista poiketen, windows phone -sovellusta ei enää tänä vuonna ylläpidetä pienistä käyttäjämääristä johtuen.
+Jouluristeilyn sovellukset ovat aikaisempina vuosina olleet ladattavissa erikseen laitekohtaisista kaupoista. Koska katsomme rohkeasti tulevaisuuteen teknisissä valinnoissamme,
+on sovellus tänä vuonna toteutettu Progressiivisena Webbisovelluksena.
+
+Tämän muutoksen ansiosta pystymme lyhyemmällä varoitusajalla ajamaan päivityksiä esimerkiksi risteilyn ohjelmaan, eikä käyttäjien tarvitse erikseen latailla sovellusta puhelimeensa.
+
+Käytännössä riittää että navigoit iOS tai Android älypuhelimellasi [sovelluksen sivulle](https://risteilyappi.herokuapp.com). Suosittelemme käyttämään chrome-selainta sovelluksen kanssa. Pienen teknisen taikuuden ansiosta sovelluksen pitäisi nyt toimia myös puhelimesi ollessa offline-tilassa.
+
+Android-käyttäjät pystyvät lataamaan sovelluksesta kevyen version puhelimelleen avaamalla selaimensa hampurilais valikon ja painamalla valikosta nappia 'Add to Home screen'.
+
+### Risteilychätti
+
+Uutena ominaisuutena tuomme tänä vuonna Risteilyappiin chät-toiminnallisuuden. Koska testaamme toiminnallisuutta ensimmäistä kertaa ja sovellukseen käytettävät henkilöresurssit ovat rajalliset,
+chätin toiminnallisuus tuskin tulee vielä tänä vuonna kaappaamaan Facebookilta viestintäherruutta. Mutta ehkä tästä vielä hyvä saadaan.
+
+Risteilychätti aukeaa osallistujien käyttöön 30.11.2017 noin kello 14:00.
+
+Otathan chättäillessäsi huomioon muut osallistujat ja käyttäydyt kauniisti.
+
+### Risteilyappi on avointa lähdekoodia
+
+Risteilyappi on julkaistu MIT Lisenssillä ja sen koodi on vapaasti tarkasteltavissa [Githubissa](https://github.com/DigitKoodit/jouluristeilija).
+
+### Ongelmatilanteissa
+
+Ota yhteyttä tekniseen tukeemme [sähköpostitse](mailto:julius@jouluristeily.net/).
