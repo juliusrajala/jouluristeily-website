@@ -12,7 +12,7 @@ links:
 
 ## Jouluristeily -sovellus
 
-TL;DR: [Siirry sovellukseen](https://risteilyappi.herokuapp.com)
+TL;DR: [Siirry sovellukseen](https://app.jouluristeily.com)
 
 Jouluristeilyn uusittu sovellus on nyt risteilykansan käytettävissä.
 
@@ -21,7 +21,7 @@ on sovellus tänä vuonna toteutettu Progressiivisena Webbisovelluksena.
 
 Tämän muutoksen ansiosta pystymme lyhyemmällä varoitusajalla ajamaan päivityksiä esimerkiksi risteilyn ohjelmaan, eikä käyttäjien tarvitse erikseen latailla sovellusta puhelimeensa.
 
-Käytännössä riittää että navigoit iOS tai Android älypuhelimellasi [sovelluksen sivulle](https://risteilyappi.herokuapp.com). Suosittelemme käyttämään chrome-selainta sovelluksen kanssa. Pienen teknisen taikuuden ansiosta sovelluksen pitäisi nyt toimia myös puhelimesi ollessa offline-tilassa.
+Käytännössä riittää että navigoit iOS tai Android älypuhelimellasi [sovelluksen sivulle](https://app.jouluristeily.com). Suosittelemme käyttämään chrome-selainta sovelluksen kanssa. Pienen teknisen taikuuden ansiosta sovelluksen pitäisi nyt toimia myös puhelimesi ollessa offline-tilassa.
 
 Android-käyttäjät pystyvät lataamaan sovelluksesta kevyen version puhelimelleen avaamalla selaimensa hampurilais valikon ja painamalla valikosta nappia 'Add to Home screen'.
 
