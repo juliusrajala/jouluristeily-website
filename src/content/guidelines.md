@@ -39,7 +39,7 @@ Hyttien liput on jaettu kirjekuoriin ja lajiteltu hytin yhteyshenkilön sukunime
 
 Satamassa Siljan terminaalissa, ryhmämatkojen toimiston vieressä on pitkä pöytä jonka yläpuolelle on ripustettu merkit jotka kertovat mistä kohtaa ketäkin voi lippujaan kysellä. En selitä miten päätellään missä kohtaa oma sukunimi on, koska oletan teidän jo osaavan.
 
-Lippuja aletaan jakamaan alkaen kello 17.30. Olkaa kilttejä ja noutakaa lippunne mielellään varttia vaille kahdeksan eli 19.00 mennessä! Tämä auttaa jättämään aikaa, jos jotain pitää vielä korjata.
+Lippuja aletaan jakamaan alkaen kello 17.30. Olkaa kilttejä ja noutakaa lippunne mielellään varttia vaille kahdeksan eli 19.45 mennessä! Tämä auttaa jättämään aikaa, jos jotain pitää vielä korjata.
 
 ### Lippujenjaon jälkeen
 Laivaan nousu tapahtuu terminaalin toisesta kerroksesta. Terminaalin toisessa kerroksessa on odotusalue, johon pääsee turvatarkastuksen jälkeen. Turvatarkastuksessa matkalipustasi luetaan viivakoodi, jonka jälkeen et pääse enää pois odotusalueelta. Odotusalueella on erillinen anniskelualue. Matkustajat pääsevät Tupliksella 29.11. odotusalueelta laivaan noin klo 20.00. Varsinaisella Jouluristeilyn lähdöllä torstaina 30.11. laivaan noustaan kuitenkin jo n. klo 19.15, sillä laiva lähtee poikkeuksellisesti klo 19.30!
