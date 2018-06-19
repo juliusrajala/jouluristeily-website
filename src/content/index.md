@@ -1,5 +1,5 @@
 ---
-title: Jouluristeily 2017
+title: Jouluristeily 2018
 draft: false
 layout: index.html
 links:
@@ -9,7 +9,7 @@ links:
 - Yhdistys
 - Sovellukset
 ---
-## Tänä vuonna jouluristeily seilataan 30.11. - 1.12.2017!
+## Tänä vuonna jouluristeily seilataan 29.11. - 30.11.2018!
 
 Luonnontieteilijöiden Jouluristeilyn juuret ulottuvat vuoteen 2003, jolloin vuosittainen risteilyperinne alkoi. Vuonna 2005 jouluristeilystä tehtiin valtakunnallinen tapahtuma ja mukaan kutsuttiin opiskelijoita ympäri Suomen. Vuonna 2006 perustettiin After lecture ry, joka otti vastuulleen luonnontieteilijöiden jouluristeilyn järjestämisen ja sen kehittämisen.
  
