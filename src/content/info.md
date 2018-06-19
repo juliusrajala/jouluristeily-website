@@ -18,6 +18,6 @@ submenu:
 ---
 ## Risteilyinfo
 
-Vuonna 2017 risteilylle lähdetään 30.11. Turun satamasta. Takaisin mantereelle palataan 1.12.
+Vuonna 2018 risteilylle lähdetään 29.11. Turun satamasta. Takaisin mantereelle palataan 30.11.
 
 Näiltä sivuilta löydät tietoa risteilyyn liittyen. Lisätietoja matkasta, ohjeista ja ohjelmasta julkaisemme lähempänä tapahtumaa näillä sivuilla, sekä sosiaalisessa mediassa!
