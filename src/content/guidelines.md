@@ -42,7 +42,7 @@ Satamassa Siljan terminaalissa, ryhmämatkojen toimiston vieressä on pitkä pö
 Lippuja aletaan jakamaan alkaen kello 17.30. Olkaa kilttejä ja noutakaa lippunne mielellään seitsemään mennessä eli 19.00 mennessä! Tämä auttaa jättämään aikaa, jos jotain pitää vielä korjata.
 
 ### Lippujenjaon jälkeen
-Laivaan nousu tapahtuu terminaalin toisesta kerroksesta. Terminaalin toisessa kerroksessa on odotusalue, johon pääsee turvatarkastuksen jälkeen. Turvatarkastuksessa matkalipustasi luetaan viivakoodi, jonka jälkeen et pääse enää pois odotusalueelta. Odotusalueella on erillinen anniskelualue. Matkustajat pääsevät Tupliksella 29.11. odotusalueelta laivaan noin klo 20.00. Varsinaisella Jouluristeilyn lähdöllä torstaina 30.11. laivaan noustaan kuitenkin jo n. klo 19.15, sillä laiva lähtee poikkeuksellisesti klo 19.30!
+Laivaan nousu tapahtuu terminaalin toisesta kerroksesta. Terminaalin toisessa kerroksessa on odotusalue, johon pääsee turvatarkastuksen jälkeen. Turvatarkastuksessa matkalipustasi luetaan viivakoodi, jonka jälkeen et pääse enää pois odotusalueelta. Odotusalueella on erillinen anniskelualue. Matkustajat pääsevät Tupliksella 28.11. odotusalueelta laivaan noin klo 20.00. Varsinaisella Jouluristeilyn lähdöllä torstaina 29.11. laivaan noustaan kuitenkin jo n. klo 19.15, sillä laiva lähtee poikkeuksellisesti klo 19.30!
 Käyttäydy satamassa asiallisesti. Huomattavassa humalassa oleva tai häiritsevästi käyttäytyvä matkustaja voidaan jättää satamaan.
 
 Matkustajan on pyydettäessä todistettava henkilöllisyytensä satamassa kuvallisella poliisin myöntämällä henkilöllisyystodistuksella (passi/ajokortti/henkilökortti). Jos matkustaja ei pysty todistamaan henkilöllisyyttään, voi laivayhtiö kieltäytyä kuljettamasta ko matkustajaa.
