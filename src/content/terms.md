@@ -54,6 +54,6 @@ Kaikki muutokset ja peruutukset tehdään sähköpostitse (varaukset(at)jouluris
 
 Kokonaishinnan muuttuessa varaukseen tehtävien muutosten seurauksena tulee erotus yhteyshenkilölle joko maksettavaksi tai palautettavaksi. Palautettavasta summasta vähennetään kuitenkin 50 tai 100 % riippuen muutoksen tai peruutuksen ajankohdasta (perusteet mainittu alla).
 
-Ennen 30.10.2018 tehdyistä peruutuksista ja palautuksiin oikeuttavista muutoksista palautetaan 50 %. Palautettavat maksut hyvitetään yhteyshenkilön ilmoittamalle tilille. 30.10.2017 jälkeen tehdyistä peruutuksista ja muutoksista ei myönnetä hyvityksiä. Matkustajalla on oikeus peruuttaa matka ylivoimaisen esteen (esim. vakava sairastapaus) vuoksi. Tällaisissa tapauksissa noudatetaan yleisiä valmismatkaehtoja Tallink Siljan käytännön mukaan.
+Ennen 30.10.2018 tehdyistä peruutuksista ja palautuksiin oikeuttavista muutoksista palautetaan 50 %. Palautettavat maksut hyvitetään yhteyshenkilön ilmoittamalle tilille. 30.10.2018 jälkeen tehdyistä peruutuksista ja muutoksista ei myönnetä hyvityksiä. Matkustajalla on oikeus peruuttaa matka ylivoimaisen esteen (esim. vakava sairastapaus) vuoksi. Tällaisissa tapauksissa noudatetaan yleisiä valmismatkaehtoja Tallink Siljan käytännön mukaan.
 
 Järjestäjä ei korvaa matka-, majoitus- tai muita vastaavia kuluja, jotka aiheutuvat laivasta myöhästymisen, matkalipun hukkumisen, laivaan pääsyn eväämisen tai viranomaistoimien vuoksi.
