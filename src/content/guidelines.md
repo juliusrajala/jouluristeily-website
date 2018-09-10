@@ -27,7 +27,7 @@ Pukukoodina Luonnontieteilijöiden Jouluristeilyllä on haalarit.
 Risteilylle on 18 vuoden ikäraja.
 
 ### Tax Free
-Tuotevalvontasäännösten vuoksi tax free -myymälä ei myy alkoholituotteita Turusta lähteneille risteilymatkustajille menomatkalla (1.12.). Paluumatkalla (2.12.) risteilymatkustajillamme on täydet tax free osto-oikeudet. Myymälä on avoinna torstaina klo 20.15-23.00 sekä perjantaina klo 06.30-07.00 ja 09.00-19.00
+Tuotevalvontasäännösten vuoksi tax free -myymälä ei myy alkoholituotteita Turusta lähteneille risteilymatkustajille menomatkalla (29.12.). Paluumatkalla (30.12.) risteilymatkustajillamme on täydet tax free osto-oikeudet. Myymälä on avoinna torstaina klo 20.15-23.00 sekä perjantaina klo 06.30-07.00 ja 09.00-19.00
 
 ### Loimun jäsenet
 Loimu jakaa niin uusille kuin vanhoille jäsenilleen drinkkilippuja risteilyn aikana. Drinkkilippuja on jaossa rajallinen määrä. Oman juomalippunsa voi noutaa Loimun ständiltä 6. kannen info-aulasta. Ständi on auki menoiltana 21.00-24.00 ja paluupäivänä 12.00-16.00. 
@@ -42,7 +42,7 @@ Satamassa Siljan terminaalissa, ryhmämatkojen toimiston vieressä on pitkä pö
 Lippuja aletaan jakamaan alkaen kello 17.30. Olkaa kilttejä ja noutakaa lippunne mielellään seitsemään mennessä eli 19.00 mennessä! Tämä auttaa jättämään aikaa, jos jotain pitää vielä korjata.
 
 ### Lippujenjaon jälkeen
-Laivaan nousu tapahtuu terminaalin toisesta kerroksesta. Terminaalin toisessa kerroksessa on odotusalue, johon pääsee turvatarkastuksen jälkeen. Turvatarkastuksessa matkalipustasi luetaan viivakoodi, jonka jälkeen et pääse enää pois odotusalueelta. Odotusalueella on erillinen anniskelualue. Matkustajat pääsevät Tupliksella 29.11. odotusalueelta laivaan noin klo 20.00. Varsinaisella Jouluristeilyn lähdöllä torstaina 30.11. laivaan noustaan kuitenkin jo n. klo 19.15, sillä laiva lähtee poikkeuksellisesti klo 19.30!
+Laivaan nousu tapahtuu terminaalin toisesta kerroksesta. Terminaalin toisessa kerroksessa on odotusalue, johon pääsee turvatarkastuksen jälkeen. Turvatarkastuksessa matkalipustasi luetaan viivakoodi, jonka jälkeen et pääse enää pois odotusalueelta. Odotusalueella on erillinen anniskelualue. Matkustajat pääsevät Tupliksella 28.11. odotusalueelta laivaan noin klo 20.00. Varsinaisella Jouluristeilyn lähdöllä torstaina 29.11. laivaan noustaan kuitenkin jo n. klo 19.15, sillä laiva lähtee poikkeuksellisesti klo 19.30!
 Käyttäydy satamassa asiallisesti. Huomattavassa humalassa oleva tai häiritsevästi käyttäytyvä matkustaja voidaan jättää satamaan.
 
 Matkustajan on pyydettäessä todistettava henkilöllisyytensä satamassa kuvallisella poliisin myöntämällä henkilöllisyystodistuksella (passi/ajokortti/henkilökortti). Jos matkustaja ei pysty todistamaan henkilöllisyyttään, voi laivayhtiö kieltäytyä kuljettamasta ko matkustajaa.
