@@ -40,6 +40,6 @@ Taulukossa etukäteen ostettavien ruokailujen hinnat. Ruokakupongit voi käyttä
 
 | Ruokailu | Hinta | Kupongin arvo laivalla |
 |:---------|------:|-------------:|
-|Meriaamiainen | 11,00€ | 11,00€ |
-|Buffet-illallinen | 36,00€ | 36,00€ |
+|Meriaamiainen | 11,00€ | 11,50€ |
+|Buffet-illallinen | 36,00€ | 37,00€ |
 |Buffet-lounas | 33,00€ | 33,00€ |
