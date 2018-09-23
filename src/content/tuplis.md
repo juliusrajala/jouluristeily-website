@@ -45,6 +45,6 @@ Tuplaristeilylle tarvitset yhden ruokailun molemmille päiville.
 
 | Ruokailu | Hinta | Kupongin arvo laivalla |
 |:---------|------:|-------------:|
-|Meriaamiainen | 10,50€ | 11,50€ |
-|Buffet-illallinen | 35,00€ | 37,00€ |
-|Buffet-lounas | 31,00€ | 33,00€ |
+|Meriaamiainen | 11,00€ | 11,50€ |
+|Buffet-illallinen | 36,00€ | 37,00€ |
+|Buffet-lounas | 33,00€ | 33,00€ |
