@@ -168,13 +168,13 @@
   font-size: 15px;
 
   > a {
-    color: $HIGHLIGHT_YELLOW;
-    text-decoration: none;
+    color: $DARK_GRAY;
+    text-decoration: underline;
     display: block;
     padding-bottom: 20px;
 
     &:hover {
-      text-decoration: underline;
+      color: $HIGHLIGHT_RED;
     }
   }
 }
