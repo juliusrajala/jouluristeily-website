@@ -14,7 +14,7 @@ links:
 
 <span class="enroll-link__container">
 <a target="_blank" href="https://www.lyyti.in/Luonnontieteilijoiden_Jouluristeily_2018_9138">
-  Siirry tästä Tupliksen ilmoittautumiseen.
+  Siirry tästä ilmoittautumiseen.
 </a>
 </span>
 
