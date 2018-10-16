@@ -29,7 +29,7 @@ Tupliksen ohjelmaan osallistumiseen vaaditaan After Lecturen kautta hankitut lip
 
 Luonnontieteiden jouluristeily 2018:n järjestäjänä toimii After lecture ry. Risteilyn aikana laivan normaalitoiminnoista vastaa Tallink Silja.
 
-Laivalla noudatetaan viranomaismääräysten lisäksi Tallinks Siljan järjestyssääntöjä ja määräyksiä.
+Laivalla noudatetaan viranomaismääräysten lisäksi Tallink Siljan järjestyssääntöjä ja määräyksiä.
 
 Laivalla turvallisuudesta ja järjestyksenvalvonnasta vastaa laivayhtiö. Tallink Siljan säännöt, määräykset ja ohjeet löydät kokonaisuudessaan Tallinks Siljan internetsivuilta: http://www.tallinksilja.com/fi/web/fi/hyva-tietaa
 
