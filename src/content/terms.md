@@ -31,7 +31,7 @@ Luonnontieteiden jouluristeily 2018:n järjestäjänä toimii After lecture ry. 
 
 Laivalla noudatetaan viranomaismääräysten lisäksi Tallink Siljan järjestyssääntöjä ja määräyksiä.
 
-Laivalla turvallisuudesta ja järjestyksenvalvonnasta vastaa laivayhtiö. Tallink Siljan säännöt, määräykset ja ohjeet löydät kokonaisuudessaan Tallinks Siljan internetsivuilta: http://www.tallinksilja.com/fi/web/fi/hyva-tietaa
+Laivalla turvallisuudesta ja järjestyksenvalvonnasta vastaa laivayhtiö. Tallink Siljan säännöt, määräykset ja ohjeet löydät kokonaisuudessaan Tallink Siljan internetsivuilta: http://www.tallinksilja.com/fi/web/fi/hyva-tietaa
 
 Matkavaraukset ovat sitovia. Matkan hinta määräytyy matkustajien lukumäärän ja valitun hyttiluokan sekä lisäpalvelujen mukaisesti. Varattuun matkaan on mahdollista tehdä muutoksia ja/tai peruutuksia järjestäjän ilmoittamien perutusehtojen (alla) mukaisesti.
 
