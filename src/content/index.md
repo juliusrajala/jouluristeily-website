@@ -7,7 +7,7 @@ links:
 - Info
 - Ilmoittautuminen
 - Yhdistys
-- Sovellukset
+- Loimu
 ---
 ## Tänä vuonna jouluristeily seilataan 29.11. - 30.11.2018!
 

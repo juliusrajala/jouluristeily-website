@@ -7,7 +7,7 @@ links:
 - Info
 - Ilmoittautuminen
 - Yhdistys
-- Sovellukset
+- Loimu
 ---
 
 ## Jouluristeily -sovellus
@@ -16,7 +16,7 @@ TL;DR: [Siirry sovellukseen](https://app.jouluristeily.com)
 
 Jouluristeilyn uusittu sovellus on nyt risteilykansan käytettävissä.
 
-Jouluristeilyn sovellukset ovat aikaisempina vuosina olleet ladattavissa erikseen laitekohtaisista kaupoista. Koska katsomme rohkeasti tulevaisuuteen teknisissä valinnoissamme,
+Jouluristeilyn Loimu ovat aikaisempina vuosina olleet ladattavissa erikseen laitekohtaisista kaupoista. Koska katsomme rohkeasti tulevaisuuteen teknisissä valinnoissamme,
 on sovellus tänä vuonna toteutettu Progressiivisena Webbisovelluksena.
 
 Tämän muutoksen ansiosta pystymme lyhyemmällä varoitusajalla ajamaan päivityksiä esimerkiksi risteilyn ohjelmaan, eikä käyttäjien tarvitse erikseen latailla sovellusta puhelimeensa.

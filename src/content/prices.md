@@ -7,7 +7,7 @@ links:
 - Info
 - Ilmoittautuminen
 - Yhdistys
-- Sovellukset
+- Loimu
 submenu:
 - Hinnat
 - Ohjelma

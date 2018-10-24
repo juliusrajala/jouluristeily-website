@@ -19,7 +19,11 @@
 
   &__bread {
     li {
+      text-align: left;
       font-family: $FONT_DEFAULT;
+      margin-left: 2 * $PADDING_DEFAULT;
+      padding-bottom: 5px;
+      list-style: disc;
     }    
   }
 

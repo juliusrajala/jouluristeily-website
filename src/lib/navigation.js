@@ -8,5 +8,5 @@ module.exports = {
   "Yhdistys": "/organization.html",
   "Matkaehdot": "/terms.html",
   "Tuplis": "/tuplis.html",
-  "Sovellukset": "/apps.html"
+  "Loimu": "/loimu.html"
 }
