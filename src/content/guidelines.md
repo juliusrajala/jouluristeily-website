@@ -27,7 +27,7 @@ Pukukoodina Luonnontieteilijöiden Jouluristeilyllä on haalarit.
 Risteilylle on 18 vuoden ikäraja.
 
 ### Tax Free
-Tuotevalvontasäännösten vuoksi tax free -myymälä ei myy alkoholituotteita Turusta lähteneille risteilymatkustajille menomatkalla (29.12.). Paluumatkalla (30.12.) risteilymatkustajillamme on täydet tax free osto-oikeudet. Myymälä on avoinna torstaina klo 20.15-23.00 sekä perjantaina klo 06.30-07.00 ja 09.00-19.00
+Tuotevalvontasäännösten vuoksi tax free -myymälä ei myy alkoholituotteita Turusta lähteneille risteilymatkustajille menomatkalla (29.11.). Paluumatkalla (30.11.) risteilymatkustajillamme on täydet tax free osto-oikeudet. Myymälä on avoinna torstaina klo 20.15-23.00 sekä perjantaina klo 06.30-07.00 ja 09.00-19.00
 
 ### Loimun jäsenet
 Loimu jakaa niin uusille kuin vanhoille jäsenilleen drinkkilippuja risteilyn aikana. Drinkkilippuja on jaossa rajallinen määrä. Oman juomalippunsa voi noutaa Loimun ständiltä 6. kannen info-aulasta. Ständi on auki menoiltana 21.00-24.00 ja paluupäivänä 12.00-16.00. 
